@@ -1,0 +1,9 @@
+# Getting Started
+
+## Configuration File
+
+Use the function `sdad_setup!` to populate the `confs/config.simple` file.
+
+## Run the application
+
+For refreshing the data use the `onet!` function.
